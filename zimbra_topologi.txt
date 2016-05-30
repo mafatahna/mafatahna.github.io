@@ -1,0 +1,10 @@
+[ ISP ]
+   |
+   |
+[Zimbra] -> ip public
+   |
+[switch]
+   |
+   -----------------------
+   |            |         |
+[router]  [mail lokal] [client]
