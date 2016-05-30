@@ -1,0 +1,11 @@
+
+[ ISP ]---------------------------------[router jkt]
+   |                                         |
+   |                                   [email lokal]
+[Zimbra] -> ip public			     |
+   |                                      [client]
+[switch]
+   |
+   -----------------------
+   |            |         |
+[router]  [mail lokal] [client]
