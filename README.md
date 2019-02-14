@@ -1,5 +1,5 @@
 # Official Website
 
-Silahkan mengunjungi website ini di URL [profil.fatahna.my.id]
+Silahkan mengunjungi website ini di URL [www.fatahna.my.id]
 
-[profil.fatahna.my.id]: <http://profil.fatahna.my.id>
+[www.fatahna.my.id]: <http://www.fatahna.my.id>
