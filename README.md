@@ -1,5 +1,5 @@
 # Official Website
 
-Silahkan mengunjungi website ini di URL [git.fatahna.com]
+Silahkan mengunjungi website ini di URL [www.fatahna.com]
 
-[git.fatahna.com]: <http://www.fatahna.com>
+[www.fatahna.com]: <http://www.fatahna.com>
